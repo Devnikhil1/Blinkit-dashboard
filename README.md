@@ -97,4 +97,4 @@
            •⭐ Ratings across all outlet types remain consistent (~4.0)
 
 #  Screenshots/Demos:
-![Dashboard Preview]-(
+![Dashboard Preview]-(https://github.com/Devnikhil1/Blinkit-dashboard/blob/main/Snapshot%20of%20blinkit.png)
